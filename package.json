@@ -4,5 +4,12 @@
   "description": "A simple Node.js wrapper for the Float api (https://github.com/floatschedule/api)",
   "main": "index.js",
   "author": "P'unk Avenue",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/punkave/float-api"
+  },
+  "dependencies": {
+    "request": "^2.75.0"
+  }
 }

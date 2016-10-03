@@ -1,0 +1,8 @@
+{
+  "name": "float-api",
+  "version": "0.1.0",
+  "description": "A simple Node.js wrapper for the Float api (https://github.com/floatschedule/api)",
+  "main": "index.js",
+  "author": "P'unk Avenue",
+  "license": "MIT"
+}
